@@ -1,0 +1,12 @@
+{
+  "name": "react-app-rewire-css-options",
+  "version": "0.1.0",
+  "description": "Set your own options to the CSS loader. Useful for using CSS modules easily",
+  "main": "index.js",
+  "repository": "https://github.com/lwd-technology/react-app-rewire-typescript",
+  "author": "Vinicius Salvati Melquiades <vinicius.melquiades@outlook.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-app-rewired": "^1.3.5"
+  }
+}
