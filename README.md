@@ -3,6 +3,10 @@ Set your own options to the CSS loader. Useful for using CSS modules easily.
 
 **NOT YET TESTED FOR PRODUCTION BUILDS**
 
+## How this package works
+
+It finds react-scripts's default CSS loader, by comparing its `test` option to .css files. Then we add new options. Previous options are kept, unless explicitly replaced.
+
 ## Usage
 
 ```javascript
