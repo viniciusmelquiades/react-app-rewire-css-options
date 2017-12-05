@@ -1,6 +1,8 @@
 # react-app-rewire-css-options
 Set your own options to the CSS loader. Useful for using CSS modules easily.
 
+**NOT YET TESTED FOR PRODUCTION BUILDS**
+
 ## Usage
 
 ```javascript
