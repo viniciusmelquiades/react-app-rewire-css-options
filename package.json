@@ -5,11 +5,18 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/viniciusmelquiades/react-app-rewire-css-options.git"
+    "url": "https://github.com/viniciusmelquiades/react-app-rewire-css-options"
   },
   "author": "Vinicius Salvati Melquiades <vinicius.melquiades@outlook.com>",
+  "homepage": "https://github.com/viniciusmelquiades/react-app-rewire-css-options",
+  "bugs": "https://github.com/viniciusmelquiades/react-app-rewire-css-options/issues",
   "license": "MIT",
   "peerDependencies": {
     "react-app-rewired": "^1.3.5"
-  }
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ]
 }
